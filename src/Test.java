@@ -1,5 +1,5 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("little cheng");
+        System.out.println("bu degisiklik klonlanmistir");
     }
 }
